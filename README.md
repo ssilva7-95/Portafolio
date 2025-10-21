@@ -50,16 +50,15 @@ Este portafolio fue creado con la finalidad de:
 
 ## 🧩 Cómo visualizar el proyecto
 
-1. Clona este repositorio:`git clone https://github.com/tu-usuario/Portafolio.git`
+1. Clona este repositorio:`git clone https://github.com/ssilva7-95/Portafolio.git`
 2. Abre la carpeta del proyecto:`cd Portafolio`
 3. Abre el archivo **index.html** en tu navegador.
 
 ---
 
-
 ## 📬 Contacto
 
-📧 **Correo:** notsantiag2@.com
+📧 **Correo:** notsantiag2@gmail.com
 💻 **GitHub: [https://github.com/ssilva7-95](https://github.com/ssilva7-95)**
 
 ---
